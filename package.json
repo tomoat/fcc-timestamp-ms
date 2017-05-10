@@ -1,0 +1,12 @@
+{
+  "name": "fcc-timestamp-ms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
+  }
+}
